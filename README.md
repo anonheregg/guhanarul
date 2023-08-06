@@ -1,9 +1,8 @@
 :>
-I, a universe of atoms, an atom in the universe-Richard Feynman.
+I, a universe of atoms, an atom in the universe-Richard feynman
 
-Staring at my repo? Alright i have done and implemeneted some codes/programs that i feel excited to do and sometimes it will solve some real problems..
-Mostly all these repos are finished doing in one or two days...So feel free to point out the mistakes and ways that can improve my code.
-   ---Bye!
+These programs reflects my work and existence! 🤖
+
 
 
 <!---
